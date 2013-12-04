@@ -1,4 +1,6 @@
 coderbyte
 =========
 
-Solutions to Coderbyte problems
+Solutions to Coderbyte problems.
+
+coderbyte.com
