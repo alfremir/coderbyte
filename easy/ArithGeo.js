@@ -3,7 +3,6 @@ function ArithGeo(arr) {
   var geo = true;
   var diff = arr[1] - arr[0];
   var ratio = arr[1] / arr[0];
-
   
   for(var i = 2; i < arr.length; i++) {
     if(arr[i] - arr[i-1] != diff) {
